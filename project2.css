@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://www.mercurynews.com/wp-content/uploads/2018/10/San-Francisco-2-2.jpg?w=528);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.container{
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+
+
+}
+nav{
+    text-align: left;
+    
+}
+
+
+li{
+    display: inline-block;
+    padding: 6px 4px;
+    text-align: left;
+    
+
+}
+
